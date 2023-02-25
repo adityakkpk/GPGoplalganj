@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".about"
+    tools:ignore="SpeakableTextPresentCheck">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/purple_501"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:elevation="4dp"
+            app:title="FAQ"
+            app:titleTextColor="@color/white"
+            app:titleMarginStart="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:textColor="@color/red"
+            android:text="Q :How can we reach Government Polytechnic Gopalganj Collage ?"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/answer_one"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:textColor="@color/red"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Q :How many types of Branches/Departments studied here?"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="@string/answer_two"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:textColor="@color/red"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Q :Do you have a playground?"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="@string/answer_three"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:textColor="@color/red"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Q :Do you have Hostal facility for students?"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="@string/answer_four"
+            android:textSize="20dp" />
+    </LinearLayout>
+</ScrollView>

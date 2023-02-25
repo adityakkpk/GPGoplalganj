@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".about"
+    tools:ignore="SpeakableTextPresentCheck">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/purple_501"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:elevation="4dp"
+            app:title="About College"
+            app:titleTextColor="@color/white"
+            app:titleMarginStart="10dp"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="214dp"
+            android:src="@drawable/gpgfront" />
+
+        <TextView
+            android:layout_width="116dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="History"
+            android:textColor="@color/red"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="Government polytechnic Gopalganj, a new name in technical institution in North Bihar. It is established by government of Bihar department of Science and Technology 23 April 1994. It is situated in Gopalgang District. Polytechnic has a big magnificent building. It is expanded in a lush green land of 20 acres. It is far away from hue and cry of cities and their unhealthy populated environment. The big campus is in lap of nature. The river Gandak flows beside the campus."
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="41dp"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Administration"
+            android:textColor="@color/red"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="Government Polytechnic Gopalganj is a full-fledged Govt. Institution in the Deptt. of Science and Technology, Govt. of Bihar and is bound to function as such. However in Academic and related areas it has to be responsive and participants in the decisions and deliberations of All India Council for Technical Education and other apex bodies like Indian School for Technical Education, Technical Teachers Training Institutes etc. ensuring innovations in Pedagogical and practical aspects of Technical Education. The Administration and Management of the Institute are oriented to these ends too."
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="41dp"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Affiliation"
+            android:textColor="@color/red"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="Govt. Polytechnic Gopalganj is a full-fledged Govt. Institution in the Dept. of Science and Technology, Govt. of Bihar and is bound to function as such. However in Academic and related areas it has to be responsive and participants in the decisions and deliberations of All India Council for Technical Education and other apex bodies like Indian School for Technical Education, Technical Teachers Training Institutes etc. ensuring innovations in Pedagogical and practical aspects of Technical Education. The Administration and Management of the Institute are oriented to these ends too."
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="41dp"
+            android:layout_marginStart="5dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/actor"
+            android:text="Principal's Message"
+            android:textColor="@color/red"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/actor"
+            android:paddingLeft="5dp"
+            android:text="On behalf of the faculty and staff at Government Polytechnic Gopalganj, it is my pleasure to welcome you to our institute’s website. Government Polytechnic Gopalganj has enjoyed tremendous success for over 25 years and has established many incredible traditions and legacies throughout the years. I sincerely hope you will take the time to look throughout our web pages and enjoy the numerous opportunities available to all the students who are part of our institute. Our goal as educators is to support all students academically and socially. We will make every effort so all students become successful and be able to succeed in the increasingly complex world in which they will live and work. The incredible faculty and staff at Government Polytechnic Gopalganj continue to encourage all students to set high goals for themselves and to reach for their dreams."
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

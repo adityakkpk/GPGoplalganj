@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">GPGopalganj</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_dashboard">GP Gopalganj</string>
+    <string name="Welcome"><i>Welcome to GP Gopalganj</i></string>
+    <string name="answer_one"><b>->1.BY ROAD</b>:- Firstly reach Gopalganj bus stand by the help of bus service ,than take a autorikshaw and reach sipaya dhala  and than follow the Polytechnic road and reach the Government Polytechnic Gopalganj.               <b>2.BY RAILWAY</b>:- Firstly reach the Gopalganj railway station ,than reach the Ambedkar Chauk by the help of E-rikshaw than take autorikshaw and reach sipaya dhala than follow the Polytechnic road and reach the Government Polytechnic Gopalganj.</string>
+    <string name="answer_two">->The total number of Branches/Departments:-
+<b>1.</b>Computer Science and Engineering
+<b>2.</b>Electrical Engineering
+<b>3.</b>Mechanical Engineering
+<b>4.</b>Electronics Engineering
+<b>5.</b>Civil Engineering
+<b>6.</b>Civil-Rural Engineering</string>
+    <string name="answer_three">->Yes, We have playgrounds of Badminton, Volleyball and Cricket.</string>
+    <string name="answer_four">->Yes, We have hostel facility for both boys and girls.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">Click here for live location</string>
+    <string name="website">Website : <a href="https://www.gpgopalganj.ac.in">https://www.gpgopalganj.ac.in</a></string>
+    <string name="HOD"><b>H.O.D</b></string>
+    <string name="Faculties"><b>Faculties</b></string>
+    <string name="HODCSE">Prof. Nishikant Shrivastva</string>
+    <string name="cseFac1">Mr. Ritesh Kumar</string>
+    <string name="cseFac2">Mr. Shashi Kumar</string>
+    <string name="cseFac3">Mr. Akash Kumar</string>
+    <string name="HODEE">Prof. Manish Kumar</string>
+    <string name="eeFac1">Mr. Mahfuz Alam</string>
+    <string name="eeFac2">Mr. Shrikant Kumar</string>
+    <string name="eeFac3">Mr. Abdul Ahad</string>
+    <string name="HODElectronics">Prof. Achyut Kumar</string>
+    <string name="elecFac1">Mr. Rahaman</string>
+    <string name="elecFac2">Mr. Vikash Kumar</string>
+    <string name="elecFac3">Mr. Jagriti </string>
+    <string name="HODME">Prof. Rajesh Kumar</string>
+    <string name="meFac1">Mr. Parmod Kumar Yadav</string>
+    <string name="meFac2">Mr. Mithlesh Kumar Pathak</string>
+    <string name="meFac3">Mr. Mrityunjay Kumar</string>
+    <string name="meFac4">Mr. Abhinav Ranjan</string>
+    <string name="HODCivil">Prof. Mahfuz Alam</string>
+    <string name="civilFac1">Mr. Niranjan Kumar</string>
+    <string name="civilFac2">Mr. Navnit Kumar</string>
+    <string name="civilFac3">Mr. Deepak Kumar</string>
+    <string name="civilFac4">Mr. Ishwar Chandra Tiwari</string>
+    <string name="civilFac5">Mr. Sharwan Kumar</string>
+    <string name="HODCivilr">Prof. Mahfuz Alam</string>
+    <string name="civilrFac1">Mr. Niranjan Kumar</string>
+    <string name="civilrFac2">Mr. Navnit Kumar</string>
+    <string name="civilrFac3">Mr. Deepak Kumar</string>
+    <string name="civilrFac4">Mr. Ishwar Chandra Tiwari</string>
+    <string name="civilrFac5">Mr. Sharwan Kumar</string>
+    <string name="AIname"><b>Name:-</b> Dr. Himanshu Ranjan</string>
+    <string name="AIqua"><b>Qualification:-</b> Ph. D from IIT, BHU, Varanasi</string>
+    <string name="AImail"><b>Email:-</b> himanshuitbhu20@gmail.com</string>
+    <string name="AImob"><b>Mob no:-</b> 7982108861</string>
+    <string name="EDname"><b>Name:-</b> Dr. Chandan Kumar Mishra</string>
+    <string name="EDmail"><b>Email:-</b> mishrachandan930@gmail.com</string>
+    <string name="TPOmail"><b>Email:-</b> rajeshkumar@gmail.com</string>
+    <string name="EDmno"><b>Mob no:-</b> 9065392430</string>
+    <string name="TPOmno"><b>Mob no:-</b> 7004932218</string>
+    <string name="TPOname"><b>Name:-</b> Er. Rajesh Kumar</string>
+    <string name="Principalname"><b>Name:-</b> Dr. Anil Kumar Singh</string>
+
+
+
+
+</resources>

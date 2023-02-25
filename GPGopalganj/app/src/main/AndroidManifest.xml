@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gpgopalganj" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GPGopalganj" >
+        <activity
+            android:name=".ed"
+            android:exported="false" />
+        <activity
+            android:name=".tpo"
+            android:exported="false" />
+        <activity
+            android:name=".ai"
+            android:exported="false" />
+        <activity
+            android:name=".principal"
+            android:exported="false" />
+        <activity
+            android:name=".melab"
+            android:exported="false" />
+        <activity
+            android:name=".meclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".eleclab"
+            android:exported="false" />
+        <activity
+            android:name=".elecclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".eelab"
+            android:exported="false" />
+        <activity
+            android:name=".eeclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".civilrlab"
+            android:exported="false" />
+        <activity
+            android:name=".civilrclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".civillab"
+            android:exported="false" />
+        <activity
+            android:name=".civilclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".cselab"
+            android:exported="false" />
+        <activity
+            android:name=".cseclassroom"
+            android:exported="false" />
+        <activity
+            android:name=".picf"
+            android:exported="false" />
+        <activity
+            android:name=".pice"
+            android:exported="false" />
+        <activity
+            android:name=".picd"
+            android:exported="false" />
+        <activity
+            android:name=".picc"
+            android:exported="false" />
+        <activity
+            android:name=".picb"
+            android:exported="false" />
+        <activity
+            android:name=".pica"
+            android:exported="false" />
+        <activity
+            android:name=".elecresource"
+            android:exported="false" />
+        <activity
+            android:name=".elecfaculty"
+            android:exported="false" />
+        <activity
+            android:name=".eeresource"
+            android:exported="false" />
+        <activity
+            android:name=".eefaculty"
+            android:exported="false" />
+        <activity
+            android:name=".civilrresource"
+            android:exported="false" />
+        <activity
+            android:name=".civilrfaculty"
+            android:exported="false" />
+        <activity
+            android:name=".civilresource"
+            android:exported="false" />
+        <activity
+            android:name=".civilfaculty"
+            android:exported="false" />
+        <activity
+            android:name=".meresource"
+            android:exported="false" />
+        <activity
+            android:name=".mefaculty"
+            android:exported="false" />
+        <activity
+            android:name=".cseresource"
+            android:exported="false" />
+        <activity
+            android:name=".csefaculty"
+            android:exported="false" />
+        <activity
+            android:name=".location"
+            android:exported="false" />
+        <activity
+            android:name=".notice"
+            android:exported="false"
+            android:parentActivityName=".dashboard" />
+        <activity
+            android:name=".electronics"
+            android:exported="false" />
+        <activity
+            android:name=".ee"
+            android:exported="false" />
+        <activity
+            android:name=".civilr"
+            android:exported="false" />
+        <activity
+            android:name=".civil"
+            android:exported="false" />
+        <activity
+            android:name=".me"
+            android:exported="false" />
+        <activity
+            android:name=".cse"
+            android:exported="false" />
+        <activity
+            android:name=".faq"
+            android:exported="false" />
+        <activity
+            android:name=".contact"
+            android:exported="false" />
+        <activity
+            android:name=".gallery"
+            android:exported="false" />
+        <activity
+            android:name=".dipartment"
+            android:exported="false" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:clearTaskOnLaunch="true"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
